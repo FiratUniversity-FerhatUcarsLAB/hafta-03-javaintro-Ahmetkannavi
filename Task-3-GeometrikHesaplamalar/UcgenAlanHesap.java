@@ -1,4 +1,7 @@
-class Main  {
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+public class Ucgeninalani {
     public static void main(String[] args) {
         double a = 3;
         double b = 4;
