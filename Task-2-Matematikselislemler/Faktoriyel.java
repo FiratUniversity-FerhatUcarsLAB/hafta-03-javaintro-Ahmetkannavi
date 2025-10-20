@@ -1,4 +1,4 @@
-public class test {
+public class fac {
     public static void main(String[] args) {
         int n = 5;
         int factorial = 1;
