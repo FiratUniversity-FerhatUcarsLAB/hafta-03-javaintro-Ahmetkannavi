@@ -1,4 +1,4 @@
-public class fac {
+public class Faktoriel {
     public static void main(String[] args) {
         int n = 5;
         int factorial = 1;
@@ -13,3 +13,4 @@ public class fac {
         System.out.println(" = " + factorial);
     }
 }
+
