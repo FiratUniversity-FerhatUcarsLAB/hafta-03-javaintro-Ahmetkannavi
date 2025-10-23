@@ -1,4 +1,4 @@
-public class Dikdortgen {
+public class DikdortgenHesap {
     public static void main(String[] args) {
       double en = 4.5;
       double boy = 9.7;
@@ -9,3 +9,4 @@ public class Dikdortgen {
       System.out.println("Cevre: " + cevre);
     }
 }
+
