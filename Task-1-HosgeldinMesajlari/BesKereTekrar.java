@@ -1,7 +1,6 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
-class Main {
+
+class BeskereTekrar {
     public static void main(String[] args) {
         System.out.println("Java'ya Hos Geldiniz ");
         System.out.println("Java'ya Hos Geldiniz ");
@@ -10,3 +9,4 @@ class Main {
         System.out.println("Java'ya Hos Geldiniz ");
     }
 }
+
