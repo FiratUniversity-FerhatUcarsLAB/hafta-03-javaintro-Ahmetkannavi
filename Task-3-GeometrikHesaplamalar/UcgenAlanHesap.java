@@ -1,7 +1,5 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
-public class Ucgeninalani {
+public class UcgeninalaniHesab {
     public static void main(String[] args) {
         double a = 3;
         double b = 4;
@@ -10,3 +8,4 @@ public class Ucgeninalani {
         System.out.println("ucgenin alani:" + Math.sqrt(s * (s - a) * (s - b) * (s - c)));
     }
 }
+
